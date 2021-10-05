@@ -29,11 +29,8 @@
   "CardUserThread": {
     "description": "Auto imported from components/card/UserThread.vue"
   },
-  "ModalFolder": {
-    "description": "Auto imported from components/modal/Folder.vue"
-  },
-  "ModalLogin": {
-    "description": "Auto imported from components/modal/Login.vue"
+  "FormsInput": {
+    "description": "Auto imported from components/forms/Input.vue"
   },
   "TagsThreadTopics": {
     "description": "Auto imported from components/tags/ThreadTopics.vue"
@@ -47,6 +44,12 @@
   "TagsTopics": {
     "description": "Auto imported from components/tags/Topics.vue"
   },
+  "ModalFolder": {
+    "description": "Auto imported from components/modal/Folder.vue"
+  },
+  "ModalLogin": {
+    "description": "Auto imported from components/modal/Login.vue"
+  },
   "ThreadCommentWriter": {
     "description": "Auto imported from components/thread/CommentWriter.vue"
   },
@@ -55,9 +58,6 @@
   },
   "ThreadPostList": {
     "description": "Auto imported from components/thread/PostList.vue"
-  },
-  "FormsInput": {
-    "description": "Auto imported from components/forms/Input.vue"
   },
   "LayoutFooter": {
     "description": "Auto imported from components/layout/Footer/index.vue"

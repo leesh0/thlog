@@ -3,36 +3,31 @@
     "name": "new",
     "path": "/new",
     "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/new.vue",
-    "chunkName": "pages/new",
-    "_name": "_68a8faf3"
+    "chunkName": "pages/new"
   },
   {
     "name": "register",
     "path": "/register",
     "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/register.vue",
-    "chunkName": "pages/register",
-    "_name": "_cb553440"
+    "chunkName": "pages/register"
   },
   {
     "name": "search",
     "path": "/search",
     "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/search.vue",
-    "chunkName": "pages/search",
-    "_name": "_2c6dd7a5"
+    "chunkName": "pages/search"
   },
   {
     "name": "auth-github",
     "path": "/auth/github",
     "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/auth/github.vue",
-    "chunkName": "pages/auth/github",
-    "_name": "_58c6037d"
+    "chunkName": "pages/auth/github"
   },
   {
     "name": "settings-profile",
     "path": "/settings/profile",
     "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/settings/profile.vue",
-    "chunkName": "pages/settings/profile",
-    "_name": "_c206560c"
+    "chunkName": "pages/settings/profile"
   },
   {
     "path": "/",
@@ -43,18 +38,15 @@
         "name": "index",
         "path": "",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/index/index.vue",
-        "chunkName": "pages/index/index",
-        "_name": "_b90b95b0"
+        "chunkName": "pages/index/index"
       },
       {
         "name": "index-latest",
         "path": "latest",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/index/latest.vue",
-        "chunkName": "pages/index/latest",
-        "_name": "_cb1928be"
+        "chunkName": "pages/index/latest"
       }
-    ],
-    "_name": "_14aace65"
+    ]
   },
   {
     "path": "/:user",
@@ -65,52 +57,44 @@
         "name": "user",
         "path": "",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/index.vue",
-        "chunkName": "pages/_user/index",
-        "_name": "_6b6c7a00"
+        "chunkName": "pages/_user/index"
       },
       {
         "name": "user-activities",
         "path": "activities",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/activities.vue",
-        "chunkName": "pages/_user/activities",
-        "_name": "_7b867d2f"
+        "chunkName": "pages/_user/activities"
       },
       {
         "name": "user-feeds",
         "path": "feeds",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/feeds.vue",
-        "chunkName": "pages/_user/feeds",
-        "_name": "_cd06617a"
+        "chunkName": "pages/_user/feeds"
       },
       {
         "name": "user-folders",
         "path": "folders",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/folders.vue",
-        "chunkName": "pages/_user/folders",
-        "_name": "_556b8cf3"
+        "chunkName": "pages/_user/folders"
       },
       {
         "name": "user-follower",
         "path": "follower",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/follower.vue",
-        "chunkName": "pages/_user/follower",
-        "_name": "_05a3b940"
+        "chunkName": "pages/_user/follower"
       },
       {
         "name": "user-following",
         "path": "following",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/following.vue",
-        "chunkName": "pages/_user/following",
-        "_name": "_785e5a3f"
+        "chunkName": "pages/_user/following"
       },
       {
         "name": "user-thread-read",
         "path": "thread/:read?",
         "component": "/Users/leeseungho/Desktop/프로젝트/thlog/frontend/src/pages/_user/thread/_read.vue",
-        "chunkName": "pages/_user/thread/_read",
-        "_name": "_40707b72"
+        "chunkName": "pages/_user/thread/_read"
       }
-    ],
-    "_name": "_3a4f9e3d"
+    ]
   }
 ]
