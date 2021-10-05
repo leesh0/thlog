@@ -25,7 +25,7 @@ services:
     command:
       - bash
       - -c
-      - ls
+      - yarn && ls
       # - |
       # yarn build && yarn start
 
