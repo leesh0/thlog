@@ -1,0 +1,5 @@
+*.env
+frontend/src/config.js
+node_modules
+frontend/src/dist/*
+*.pem
