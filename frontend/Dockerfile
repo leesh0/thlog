@@ -5,6 +5,7 @@ COPY ./src/package.json ./
 # COPY ./src/package-lock.json ./
 
 COPY ./src/ ./
-RUN yarn install
+RUN yarn
+RUN ls
 
 EXPOSE 3000
