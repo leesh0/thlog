@@ -35,9 +35,6 @@
   "ModalLogin": {
     "description": "Auto imported from components/modal/Login.vue"
   },
-  "FormsInput": {
-    "description": "Auto imported from components/forms/Input.vue"
-  },
   "TagsThreadTopics": {
     "description": "Auto imported from components/tags/ThreadTopics.vue"
   },
@@ -59,14 +56,17 @@
   "ThreadPostList": {
     "description": "Auto imported from components/thread/PostList.vue"
   },
+  "FormsInput": {
+    "description": "Auto imported from components/forms/Input.vue"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/layout/Footer/index.vue"
+  },
   "LayoutNavbarUser": {
     "description": "Auto imported from components/layout/Navbar/User.vue"
   },
   "LayoutNavbar": {
     "description": "Auto imported from components/layout/Navbar/index.vue"
-  },
-  "LayoutFooter": {
-    "description": "Auto imported from components/layout/Footer/index.vue"
   },
   "ThreadPostCommentMenu": {
     "description": "Auto imported from components/thread/Post/CommentMenu.vue"

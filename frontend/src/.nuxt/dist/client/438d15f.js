@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{1428:function(e,t,n){"use strict";n.r(t);var l=n(68),component=Object(l.a)({},(function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",{staticClass:"flex justify-center items-center h-full"},[e._v("\n  Copyright 2021 © Suumokr.\n")])}),[],!1,null,null,null);t.default=component.exports}}]);

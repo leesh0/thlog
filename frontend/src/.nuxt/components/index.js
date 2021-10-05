@@ -1,35 +1,35 @@
-export { default as Avatar } from '../../components/Avatar.vue'
-export { default as Avatars } from '../../components/Avatars.vue'
-export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
-export { default as Tutorial } from '../../components/Tutorial.vue'
-export { default as CardActivity } from '../../components/card/Activity.vue'
-export { default as CardFolder } from '../../components/card/Folder.vue'
-export { default as CardProfile } from '../../components/card/Profile.vue'
-export { default as CardThread } from '../../components/card/Thread.vue'
-export { default as CardUser } from '../../components/card/User.vue'
-export { default as CardUserThread } from '../../components/card/UserThread.vue'
-export { default as ModalFolder } from '../../components/modal/Folder.vue'
-export { default as ModalLogin } from '../../components/modal/Login.vue'
-export { default as FormsInput } from '../../components/forms/Input.vue'
-export { default as TagsThreadTopics } from '../../components/tags/ThreadTopics.vue'
-export { default as TagsTopicBox } from '../../components/tags/TopicBox.vue'
-export { default as TagsTopicList } from '../../components/tags/TopicList.vue'
-export { default as TagsTopics } from '../../components/tags/Topics.vue'
-export { default as ThreadCommentWriter } from '../../components/thread/CommentWriter.vue'
-export { default as ThreadMdView } from '../../components/thread/MdView.vue'
-export { default as ThreadPostList } from '../../components/thread/PostList.vue'
-export { default as LayoutNavbarUser } from '../../components/layout/Navbar/User.vue'
-export { default as LayoutNavbar } from '../../components/layout/Navbar/index.vue'
-export { default as LayoutFooter } from '../../components/layout/Footer/index.vue'
-export { default as ThreadPostCommentMenu } from '../../components/thread/Post/CommentMenu.vue'
-export { default as ThreadPostComments } from '../../components/thread/Post/Comments.vue'
-export { default as ThreadPostFoot } from '../../components/thread/Post/Foot.vue'
-export { default as ThreadPostMenu } from '../../components/thread/Post/Menu.vue'
-export { default as ThreadPostReferences } from '../../components/thread/Post/References.vue'
-export { default as ThreadPost } from '../../components/thread/Post/index.vue'
-export { default as ThreadSide } from '../../components/thread/Side/index.vue'
-export { default as LayoutNavbarNotificationsCard } from '../../components/layout/Navbar/Notifications/Card.vue'
-export { default as LayoutNavbarNotifications } from '../../components/layout/Navbar/Notifications/index.vue'
+export const Avatar = () => import('../../components/Avatar.vue' /* webpackChunkName: "components/avatar" */).then(c => wrapFunctional(c.default || c))
+export const Avatars = () => import('../../components/Avatars.vue' /* webpackChunkName: "components/avatars" */).then(c => wrapFunctional(c.default || c))
+export const NuxtLogo = () => import('../../components/NuxtLogo.vue' /* webpackChunkName: "components/nuxt-logo" */).then(c => wrapFunctional(c.default || c))
+export const Tutorial = () => import('../../components/Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
+export const CardActivity = () => import('../../components/card/Activity.vue' /* webpackChunkName: "components/card-activity" */).then(c => wrapFunctional(c.default || c))
+export const CardFolder = () => import('../../components/card/Folder.vue' /* webpackChunkName: "components/card-folder" */).then(c => wrapFunctional(c.default || c))
+export const CardProfile = () => import('../../components/card/Profile.vue' /* webpackChunkName: "components/card-profile" */).then(c => wrapFunctional(c.default || c))
+export const CardThread = () => import('../../components/card/Thread.vue' /* webpackChunkName: "components/card-thread" */).then(c => wrapFunctional(c.default || c))
+export const CardUser = () => import('../../components/card/User.vue' /* webpackChunkName: "components/card-user" */).then(c => wrapFunctional(c.default || c))
+export const CardUserThread = () => import('../../components/card/UserThread.vue' /* webpackChunkName: "components/card-user-thread" */).then(c => wrapFunctional(c.default || c))
+export const ModalFolder = () => import('../../components/modal/Folder.vue' /* webpackChunkName: "components/modal-folder" */).then(c => wrapFunctional(c.default || c))
+export const ModalLogin = () => import('../../components/modal/Login.vue' /* webpackChunkName: "components/modal-login" */).then(c => wrapFunctional(c.default || c))
+export const TagsThreadTopics = () => import('../../components/tags/ThreadTopics.vue' /* webpackChunkName: "components/tags-thread-topics" */).then(c => wrapFunctional(c.default || c))
+export const TagsTopicBox = () => import('../../components/tags/TopicBox.vue' /* webpackChunkName: "components/tags-topic-box" */).then(c => wrapFunctional(c.default || c))
+export const TagsTopicList = () => import('../../components/tags/TopicList.vue' /* webpackChunkName: "components/tags-topic-list" */).then(c => wrapFunctional(c.default || c))
+export const TagsTopics = () => import('../../components/tags/Topics.vue' /* webpackChunkName: "components/tags-topics" */).then(c => wrapFunctional(c.default || c))
+export const ThreadCommentWriter = () => import('../../components/thread/CommentWriter.vue' /* webpackChunkName: "components/thread-comment-writer" */).then(c => wrapFunctional(c.default || c))
+export const ThreadMdView = () => import('../../components/thread/MdView.vue' /* webpackChunkName: "components/thread-md-view" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPostList = () => import('../../components/thread/PostList.vue' /* webpackChunkName: "components/thread-post-list" */).then(c => wrapFunctional(c.default || c))
+export const FormsInput = () => import('../../components/forms/Input.vue' /* webpackChunkName: "components/forms-input" */).then(c => wrapFunctional(c.default || c))
+export const LayoutFooter = () => import('../../components/layout/Footer/index.vue' /* webpackChunkName: "components/layout-footer" */).then(c => wrapFunctional(c.default || c))
+export const LayoutNavbarUser = () => import('../../components/layout/Navbar/User.vue' /* webpackChunkName: "components/layout-navbar-user" */).then(c => wrapFunctional(c.default || c))
+export const LayoutNavbar = () => import('../../components/layout/Navbar/index.vue' /* webpackChunkName: "components/layout-navbar" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPostCommentMenu = () => import('../../components/thread/Post/CommentMenu.vue' /* webpackChunkName: "components/thread-post-comment-menu" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPostComments = () => import('../../components/thread/Post/Comments.vue' /* webpackChunkName: "components/thread-post-comments" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPostFoot = () => import('../../components/thread/Post/Foot.vue' /* webpackChunkName: "components/thread-post-foot" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPostMenu = () => import('../../components/thread/Post/Menu.vue' /* webpackChunkName: "components/thread-post-menu" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPostReferences = () => import('../../components/thread/Post/References.vue' /* webpackChunkName: "components/thread-post-references" */).then(c => wrapFunctional(c.default || c))
+export const ThreadPost = () => import('../../components/thread/Post/index.vue' /* webpackChunkName: "components/thread-post" */).then(c => wrapFunctional(c.default || c))
+export const ThreadSide = () => import('../../components/thread/Side/index.vue' /* webpackChunkName: "components/thread-side" */).then(c => wrapFunctional(c.default || c))
+export const LayoutNavbarNotificationsCard = () => import('../../components/layout/Navbar/Notifications/Card.vue' /* webpackChunkName: "components/layout-navbar-notifications-card" */).then(c => wrapFunctional(c.default || c))
+export const LayoutNavbarNotifications = () => import('../../components/layout/Navbar/Notifications/index.vue' /* webpackChunkName: "components/layout-navbar-notifications" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

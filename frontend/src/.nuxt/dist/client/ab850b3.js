@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{1423:function(t,e,r){"use strict";r.r(e);var n=r(68),component=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("cardThread",{staticClass:"sm:border-b border-gray-100",attrs:{title:"dsaas"}})],1)}),[],!1,null,null,null);e.default=component.exports}}]);
