@@ -35,8 +35,7 @@ RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 COPY ./src /app
-RUN [ ! -f main/settings.py ] && cp main/settings_1.py main/settings.py ; exit 0
-RUN [ ! -f db.sqlite3 ] && python manage.py migrate && python manage.py migrate --run-syncdb ; exit 0
+RUN python manage.py migrate; exit 0
 
 EXPOSE 8000
 # CMD ["gunicorn", "--bind", "0.0.0.0:8000", "main.wsgi:application"]
