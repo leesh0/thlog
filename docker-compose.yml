@@ -25,7 +25,9 @@ services:
     command:
       - bash
       - -c
-      # - yarn build && yarn start
+      - ls
+      # - |
+      # yarn build && yarn start
 
   backend:
     build:
