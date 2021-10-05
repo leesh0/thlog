@@ -1,4 +1,9 @@
-import { githubClientId, githubClientSecret, githubRedirectUri } from './config'
+import {
+  githubClientId,
+  githubClientSecret,
+  githubRedirectUri,
+  axiosBase,
+} from './config'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -96,7 +101,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'http://192.168.0.3:8000',
+    baseURL: axiosBase,
     credentials: true,
   },
 
