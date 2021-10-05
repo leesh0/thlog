@@ -22,12 +22,12 @@ services:
     restart: always
     ports:
       - 3000:3000
-    command:
-      - bash
-      - -c
-      - yarn start
-      # - |
-      # yarn build && yarn start
+    # command:
+    #   - bash
+    #   - -c
+    #   - yarn start
+    # - |
+    # yarn build && yarn start
 
   backend:
     build:
