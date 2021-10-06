@@ -50,13 +50,7 @@ def get_refresh_view():
 class GithubLogin(SocialLoginView):
     adapter_class = GitHubOAuth2Adapter
     client_class = OAuth2Client
-    callback_url = 'http://192.168.0.3:3000/auth/github'
-
-
-class GoogleLogin(SocialLoginView):
-    adapter_class = GitHubOAuth2Adapter
-    client_class = OAuth2Client
-    callback_url = 'http://192.168.0.3:3000/auth/google'
+    callback_url = 'http://3.37.199.195/auth/github'
 
 
 class UserDeleteView(APIView):
