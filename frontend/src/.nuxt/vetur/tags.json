@@ -11,6 +11,15 @@
   "Tutorial": {
     "description": "Auto imported from components/Tutorial.vue"
   },
+  "ModalFolder": {
+    "description": "Auto imported from components/modal/Folder.vue"
+  },
+  "ModalLogin": {
+    "description": "Auto imported from components/modal/Login.vue"
+  },
+  "FormsInput": {
+    "description": "Auto imported from components/forms/Input.vue"
+  },
   "CardActivity": {
     "description": "Auto imported from components/card/Activity.vue"
   },
@@ -29,8 +38,14 @@
   "CardUserThread": {
     "description": "Auto imported from components/card/UserThread.vue"
   },
-  "FormsInput": {
-    "description": "Auto imported from components/forms/Input.vue"
+  "ThreadCommentWriter": {
+    "description": "Auto imported from components/thread/CommentWriter.vue"
+  },
+  "ThreadMdView": {
+    "description": "Auto imported from components/thread/MdView.vue"
+  },
+  "ThreadPostList": {
+    "description": "Auto imported from components/thread/PostList.vue"
   },
   "TagsThreadTopics": {
     "description": "Auto imported from components/tags/ThreadTopics.vue"
@@ -43,21 +58,6 @@
   },
   "TagsTopics": {
     "description": "Auto imported from components/tags/Topics.vue"
-  },
-  "ModalFolder": {
-    "description": "Auto imported from components/modal/Folder.vue"
-  },
-  "ModalLogin": {
-    "description": "Auto imported from components/modal/Login.vue"
-  },
-  "ThreadCommentWriter": {
-    "description": "Auto imported from components/thread/CommentWriter.vue"
-  },
-  "ThreadMdView": {
-    "description": "Auto imported from components/thread/MdView.vue"
-  },
-  "ThreadPostList": {
-    "description": "Auto imported from components/thread/PostList.vue"
   },
   "LayoutFooter": {
     "description": "Auto imported from components/layout/Footer/index.vue"
