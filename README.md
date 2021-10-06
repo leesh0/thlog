@@ -38,25 +38,20 @@
 
 - [thlog.me](http://thlog.me)
 
-![스크린샷 2021-10-06 13.23.22](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h4wyefjj61i10u0wfq02.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h4wyefjj61i10u0wfq02.jpg)
 
 
 
-![스크린샷 2021-10-06 13.23.57](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h5ef69pj61i10u0wgb02.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h5ef69pj61i10u0wgb02.jpg)
 
 
 
-![스크린샷 2021-10-06 13.24.33](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h62nu9ej61i70u0q4k02.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h62nu9ej61i70u0q4k02.jpg)
 
 
 
-![스크린샷 2021-10-06 13.25.19](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h6pougcj61i70u03zm02.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h6pougcj61i70u03zm02.jpg)
 
 
-
-
-
-
-
-![스크린샷 2021-10-06 13.25.39](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h712qkkj61i70u0dh102.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gv5h712qkkj61i70u0dh102.jpg)
 
