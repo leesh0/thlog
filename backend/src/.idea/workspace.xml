@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800a5ba4-5ffd-4723-995c-08db908b98ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thlog_auth/dj_rest_auth_custom/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/thlog_auth/dj_rest_auth_custom/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thlog_auth/dj_rest_auth_custom/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/thlog_auth/dj_rest_auth_custom/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1632413511310" duration="5609000" />
       <workItem from="1633061837500" duration="86315000" />
       <workItem from="1633449048171" duration="517000" />
-      <workItem from="1633486247048" duration="611000" />
+      <workItem from="1633486247048" duration="683000" />
     </task>
     <servers />
   </component>

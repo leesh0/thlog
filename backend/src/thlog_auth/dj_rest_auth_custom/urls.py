@@ -1,12 +1,11 @@
 from django.conf import settings
 from django.urls import path
-from thlog_auth.dj_rest_auth_custom.views import GoogleLogin, GithubLogin
+from thlog_auth.dj_rest_auth_custom.views import GithubLogin
 from thlog_auth.dj_rest_auth_custom.views import UserDeleteView
 from dj_rest_auth.views import (
     LoginView, LogoutView, PasswordChangeView, PasswordResetConfirmView,
     PasswordResetView, UserDetailsView
 )
-
 
 urlpatterns = [
     # URLs that do not require a session or valid token
@@ -14,8 +13,7 @@ urlpatterns = [
     path('delete/', UserDeleteView.as_view(), name='user_delete'),
     # URLs that require a user to be logged in with a valid session / token.
     path('logout/', LogoutView.as_view(), name='rest_logout'),
-    path('google', GoogleLogin.as_view(), name='google_login'),
-    path('github',GithubLogin.as_view(), name='github_login'),
+    path('github', GithubLogin.as_view(), name='github_login'),
     path('user/', UserDetailsView.as_view(), name='rest_user_details'),
 ]
 
