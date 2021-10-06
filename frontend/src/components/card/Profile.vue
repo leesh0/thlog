@@ -65,6 +65,9 @@
 
 <script>
 export default {
+  mounted() {
+    console.log(this.user)
+  },
   props: ['user'],
 }
 </script>

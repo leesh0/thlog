@@ -28,7 +28,7 @@
           </a-tab-pane>
           <a-tab-pane
             key="user-activities"
-            v-if="$auth.user.username == user.username"
+            v-if="$auth.loggedIn && $auth.user.username == user.username"
           >
             <template slot="tab">
               <div class="t"><a-icon type="rocket" />Activities</div>

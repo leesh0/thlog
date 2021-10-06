@@ -11,9 +11,6 @@
   "Tutorial": {
     "description": "Auto imported from components/Tutorial.vue"
   },
-  "FormsInput": {
-    "description": "Auto imported from components/forms/Input.vue"
-  },
   "CardActivity": {
     "description": "Auto imported from components/card/Activity.vue"
   },
@@ -31,6 +28,9 @@
   },
   "CardUserThread": {
     "description": "Auto imported from components/card/UserThread.vue"
+  },
+  "FormsInput": {
+    "description": "Auto imported from components/forms/Input.vue"
   },
   "ModalFolder": {
     "description": "Auto imported from components/modal/Folder.vue"
