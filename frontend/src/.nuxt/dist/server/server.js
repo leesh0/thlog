@@ -856,22 +856,22 @@ __webpack_require__.d(components_namespaceObject, "Avatar", function() { return 
 __webpack_require__.d(components_namespaceObject, "Avatars", function() { return Avatars; });
 __webpack_require__.d(components_namespaceObject, "NuxtLogo", function() { return NuxtLogo; });
 __webpack_require__.d(components_namespaceObject, "Tutorial", function() { return Tutorial; });
+__webpack_require__.d(components_namespaceObject, "FormsInput", function() { return FormsInput; });
 __webpack_require__.d(components_namespaceObject, "CardActivity", function() { return CardActivity; });
 __webpack_require__.d(components_namespaceObject, "CardFolder", function() { return CardFolder; });
 __webpack_require__.d(components_namespaceObject, "CardProfile", function() { return CardProfile; });
 __webpack_require__.d(components_namespaceObject, "CardThread", function() { return CardThread; });
 __webpack_require__.d(components_namespaceObject, "CardUser", function() { return CardUser; });
 __webpack_require__.d(components_namespaceObject, "CardUserThread", function() { return CardUserThread; });
-__webpack_require__.d(components_namespaceObject, "FormsInput", function() { return FormsInput; });
 __webpack_require__.d(components_namespaceObject, "ModalFolder", function() { return ModalFolder; });
 __webpack_require__.d(components_namespaceObject, "ModalLogin", function() { return ModalLogin; });
-__webpack_require__.d(components_namespaceObject, "ThreadCommentWriter", function() { return ThreadCommentWriter; });
-__webpack_require__.d(components_namespaceObject, "ThreadMdView", function() { return ThreadMdView; });
-__webpack_require__.d(components_namespaceObject, "ThreadPostList", function() { return ThreadPostList; });
 __webpack_require__.d(components_namespaceObject, "TagsThreadTopics", function() { return TagsThreadTopics; });
 __webpack_require__.d(components_namespaceObject, "TagsTopicBox", function() { return TagsTopicBox; });
 __webpack_require__.d(components_namespaceObject, "TagsTopicList", function() { return TagsTopicList; });
 __webpack_require__.d(components_namespaceObject, "TagsTopics", function() { return TagsTopics; });
+__webpack_require__.d(components_namespaceObject, "ThreadCommentWriter", function() { return ThreadCommentWriter; });
+__webpack_require__.d(components_namespaceObject, "ThreadMdView", function() { return ThreadMdView; });
+__webpack_require__.d(components_namespaceObject, "ThreadPostList", function() { return ThreadPostList; });
 __webpack_require__.d(components_namespaceObject, "LayoutFooter", function() { return LayoutFooter; });
 __webpack_require__.d(components_namespaceObject, "LayoutNavbarUser", function() { return LayoutNavbarUser; });
 __webpack_require__.d(components_namespaceObject, "LayoutNavbar", function() { return LayoutNavbar; });
@@ -2612,22 +2612,22 @@ const Avatar = () => __webpack_require__.e(/* import() | components/avatar */ 1)
 const Avatars = () => __webpack_require__.e(/* import() | components/avatars */ 2).then(__webpack_require__.bind(null, 73)).then(c => wrapFunctional(c.default || c));
 const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 17).then(__webpack_require__.bind(null, 162)).then(c => wrapFunctional(c.default || c));
 const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 32).then(__webpack_require__.bind(null, 163)).then(c => wrapFunctional(c.default || c));
-const CardActivity = () => __webpack_require__.e(/* import() | components/card-activity */ 3).then(__webpack_require__.bind(null, 139)).then(c => wrapFunctional(c.default || c));
-const CardFolder = () => __webpack_require__.e(/* import() | components/card-folder */ 4).then(__webpack_require__.bind(null, 140)).then(c => wrapFunctional(c.default || c));
-const CardProfile = () => __webpack_require__.e(/* import() | components/card-profile */ 5).then(__webpack_require__.bind(null, 141)).then(c => wrapFunctional(c.default || c));
-const CardThread = () => __webpack_require__.e(/* import() | components/card-thread */ 6).then(__webpack_require__.bind(null, 142)).then(c => wrapFunctional(c.default || c));
-const CardUser = () => __webpack_require__.e(/* import() | components/card-user */ 7).then(__webpack_require__.bind(null, 143)).then(c => wrapFunctional(c.default || c));
-const CardUserThread = () => __webpack_require__.e(/* import() | components/card-user-thread */ 8).then(__webpack_require__.bind(null, 144)).then(c => wrapFunctional(c.default || c));
-const FormsInput = () => __webpack_require__.e(/* import() | components/forms-input */ 9).then(__webpack_require__.bind(null, 145)).then(c => wrapFunctional(c.default || c));
+const FormsInput = () => __webpack_require__.e(/* import() | components/forms-input */ 9).then(__webpack_require__.bind(null, 139)).then(c => wrapFunctional(c.default || c));
+const CardActivity = () => __webpack_require__.e(/* import() | components/card-activity */ 3).then(__webpack_require__.bind(null, 140)).then(c => wrapFunctional(c.default || c));
+const CardFolder = () => __webpack_require__.e(/* import() | components/card-folder */ 4).then(__webpack_require__.bind(null, 141)).then(c => wrapFunctional(c.default || c));
+const CardProfile = () => __webpack_require__.e(/* import() | components/card-profile */ 5).then(__webpack_require__.bind(null, 142)).then(c => wrapFunctional(c.default || c));
+const CardThread = () => __webpack_require__.e(/* import() | components/card-thread */ 6).then(__webpack_require__.bind(null, 143)).then(c => wrapFunctional(c.default || c));
+const CardUser = () => __webpack_require__.e(/* import() | components/card-user */ 7).then(__webpack_require__.bind(null, 144)).then(c => wrapFunctional(c.default || c));
+const CardUserThread = () => __webpack_require__.e(/* import() | components/card-user-thread */ 8).then(__webpack_require__.bind(null, 145)).then(c => wrapFunctional(c.default || c));
 const ModalFolder = () => __webpack_require__.e(/* import() | components/modal-folder */ 15).then(__webpack_require__.bind(null, 146)).then(c => wrapFunctional(c.default || c));
 const ModalLogin = () => __webpack_require__.e(/* import() | components/modal-login */ 16).then(__webpack_require__.bind(null, 147)).then(c => wrapFunctional(c.default || c));
-const ThreadCommentWriter = () => __webpack_require__.e(/* import() | components/thread-comment-writer */ 22).then(__webpack_require__.bind(null, 148)).then(c => wrapFunctional(c.default || c));
-const ThreadMdView = () => __webpack_require__.e(/* import() | components/thread-md-view */ 23).then(__webpack_require__.bind(null, 149)).then(c => wrapFunctional(c.default || c));
-const ThreadPostList = () => __webpack_require__.e(/* import() | components/thread-post-list */ 28).then(__webpack_require__.bind(null, 150)).then(c => wrapFunctional(c.default || c));
-const TagsThreadTopics = () => __webpack_require__.e(/* import() | components/tags-thread-topics */ 18).then(__webpack_require__.bind(null, 151)).then(c => wrapFunctional(c.default || c));
-const TagsTopicBox = () => __webpack_require__.e(/* import() | components/tags-topic-box */ 19).then(__webpack_require__.bind(null, 152)).then(c => wrapFunctional(c.default || c));
-const TagsTopicList = () => __webpack_require__.e(/* import() | components/tags-topic-list */ 20).then(__webpack_require__.bind(null, 153)).then(c => wrapFunctional(c.default || c));
-const TagsTopics = () => __webpack_require__.e(/* import() | components/tags-topics */ 21).then(__webpack_require__.bind(null, 154)).then(c => wrapFunctional(c.default || c));
+const TagsThreadTopics = () => __webpack_require__.e(/* import() | components/tags-thread-topics */ 18).then(__webpack_require__.bind(null, 148)).then(c => wrapFunctional(c.default || c));
+const TagsTopicBox = () => __webpack_require__.e(/* import() | components/tags-topic-box */ 19).then(__webpack_require__.bind(null, 149)).then(c => wrapFunctional(c.default || c));
+const TagsTopicList = () => __webpack_require__.e(/* import() | components/tags-topic-list */ 20).then(__webpack_require__.bind(null, 150)).then(c => wrapFunctional(c.default || c));
+const TagsTopics = () => __webpack_require__.e(/* import() | components/tags-topics */ 21).then(__webpack_require__.bind(null, 151)).then(c => wrapFunctional(c.default || c));
+const ThreadCommentWriter = () => __webpack_require__.e(/* import() | components/thread-comment-writer */ 22).then(__webpack_require__.bind(null, 152)).then(c => wrapFunctional(c.default || c));
+const ThreadMdView = () => __webpack_require__.e(/* import() | components/thread-md-view */ 23).then(__webpack_require__.bind(null, 153)).then(c => wrapFunctional(c.default || c));
+const ThreadPostList = () => __webpack_require__.e(/* import() | components/thread-post-list */ 28).then(__webpack_require__.bind(null, 154)).then(c => wrapFunctional(c.default || c));
 const LayoutFooter = () => __webpack_require__.e(/* import() | components/layout-footer */ 10).then(__webpack_require__.bind(null, 164)).then(c => wrapFunctional(c.default || c));
 const LayoutNavbarUser = () => __webpack_require__.e(/* import() | components/layout-navbar-user */ 14).then(__webpack_require__.bind(null, 165)).then(c => wrapFunctional(c.default || c));
 const LayoutNavbar = () => __webpack_require__.e(/* import() | components/layout-navbar */ 11).then(__webpack_require__.bind(null, 155)).then(c => wrapFunctional(c.default || c));
@@ -2954,7 +2954,7 @@ const setupProgress = axios => {
   // runtimeConfig
   const runtimeConfig = ctx.$config && ctx.$config.axios || {}; // baseURL
 
-  const baseURL =  false ? undefined : runtimeConfig.baseURL || runtimeConfig.baseUrl || process.env._AXIOS_BASE_URL_ || 'http://localhost:3000/'; // Create fresh objects for all default header scopes
+  const baseURL =  false ? undefined : runtimeConfig.baseURL || runtimeConfig.baseUrl || process.env._AXIOS_BASE_URL_ || 'http://3.37.199.195:81/'; // Create fresh objects for all default header scopes
   // Axios creates only one which is shared across SSR requests!
   // https://github.com/mzabriskie/axios/blob/master/lib/defaults.js
 
@@ -4638,6 +4638,8 @@ _nuxt_middleware.auth = authMiddleware;
   })); // github
 
   $auth.registerStrategy('github', new runtime_Oauth2Scheme($auth, {
+    "clientId": "ec3c854c04b0fedc22ea",
+    "redirectUri": "http://3.37.199.195/auth/github",
     "name": "github",
     "endpoints": {
       "authorization": "https://github.com/login/oauth/authorize",

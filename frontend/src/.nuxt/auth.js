@@ -79,6 +79,8 @@ export default function (ctx, inject) {
 
   // github
   $auth.registerStrategy('github', new Oauth2Scheme($auth, {
+  "clientId": "ec3c854c04b0fedc22ea",
+  "redirectUri": "http://3.37.199.195/auth/github",
   "name": "github",
   "endpoints": {
     "authorization": "https://github.com/login/oauth/authorize",
